@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="KotlinJavaRuntime">
+    <archive path="C:/Users/alcid/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.9.23/kotlin-stdlib-jdk8-1.9.23.jar" />
+    <archive path="C:/Users/alcid/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/1.9.23/kotlin-stdlib-1.9.23.jar" />
+    <archive path="C:/Users/alcid/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar" />
+    <archive path="C:/Users/alcid/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.9.23/kotlin-stdlib-jdk7-1.9.23.jar" />
+  </library>
+</eclipse-userlibraries>
+
